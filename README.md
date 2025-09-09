@@ -5,9 +5,8 @@ ayushdumka204/AD_Portfolio"
 This is a simple and responsive **portfolio website** built using **HTML**, **CSS**, and **JavaScript**.  
 It showcases my projects, skills, and contact information.
 
-## 🌐 Live Demo
-
-https://ad-portfolio-at3ws3s32-aayush-dumkas-projects.vercel.app/
+## 🌐 Live Link
+https://ad-portfolio-git-main-aayush-dumkas-projects.vercel.app
 
 ---
 
