@@ -7,7 +7,7 @@ It showcases my projects, skills, and contact information.
 
 ## 🌐 Live Demo
 
-[View Live Site](https://your-username.github.io/your-repo-name/) 
+https://ad-portfolio-at3ws3s32-aayush-dumkas-projects.vercel.app/
 
 ---
 
