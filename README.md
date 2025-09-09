@@ -27,12 +27,3 @@ https://ad-portfolio-at3ws3s32-aayush-dumkas-projects.vercel.app/
 - JavaScript
 
 ---
-
-## 📁 Folder Structure
-/portfolio/
-│
-├── index.html
-├── indext.html
-├── style.css
-├── stylet.css
-└── AD.jpeg
