@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Arrays</h2>
+
+<p>Multiply every element in the array with 10:</p>
+
+<p id="demo"></p>
+
+
+<!-- Js code starts -->
+<script>
+
+
+// function myFunction(num) {
+//   return num * 10;
+
+const numbers = [65, 44, 12, 4];
+const newArr = numbers.map(myFunction);
+console.log(`New array: ${newArr[0]}`);
+
+document.getElementById("demo").innerHTML = newArr;
+
+function myFunction(num) {
+  return num * 10;
+
+
+  // let name = "Kunal";
+  // let messages = {
+  //   hello: "",
+  //   testApi: "",
+  //   testApi2: ""
+  // };
+
+  // const endpoints = [
+  //   { key: "hello", url: "http://localhost:5000/api/hello", field: "message" },
+  //   { key: "testApi", url: "http://localhost:5000/api/testApi", field: "test_message" },
+  //   { key: "testApi2", url: "http://localhost:5000/api/testApi2", field: "test_message2" }
+  // ];
+
+  // onMount(async () => {
+  //   await Promise.all(endpoints.map(async (ep) => {
+  //     const res = await fetch(ep.url);
+  //     const data = await res.json();
+  //     messages[ep.key] = data[ep.field];
+  //   }));
+  // });
+
+}
+
+</script>
+
+
+
+</body>
+</html>
