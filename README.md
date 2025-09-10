@@ -6,7 +6,7 @@ This is a simple and responsive **portfolio website** built using **HTML**, **CS
 It showcases my projects, skills, and contact information.
 
 ## 🌐 Live Link
-https://ad-portfolio-git-main-aayush-dumkas-projects.vercel.app
+ayush-portfolio-ad.netlify.app
 
 ---
 
