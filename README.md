@@ -6,7 +6,7 @@ This is a simple and responsive **portfolio website** built using **HTML**, **CS
 It showcases my projects, skills, and contact information.
 
 ## 🌐 Live Link
-ayush-portfolio-ad.netlify.app
+https://ayush-portfolio-ad.netlify.app/
 
 ---
 
